@@ -18,7 +18,7 @@ int main(){
 			
 		}
 		else {
-			remain = remain + 1000;
+			remain = remain + 10000;
 		}
 	} while (remain > 0);
 	printf("Distance = %d kilometer", dist);
